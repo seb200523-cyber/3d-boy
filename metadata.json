@@ -1,0 +1,6 @@
+{
+  "name": "Creative Studio Showcase",
+  "description": "Portfolio and creative studio showcase with interactive spotlight reveal, work gallery, about section, blog, and project inquiry modal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
